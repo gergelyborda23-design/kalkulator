@@ -6,6 +6,8 @@ Egyszerű, önálló weboldal, amellyel megbecsülhető, hogy egy marketingfolya
 
 Nyisd meg az `index.html` fájlt egy modern böngészőben. Nincs szükség telepítésre, buildlépésre vagy külső könyvtárra. A stílusok, a működés és a háttérkép adatai is a HTML-fájlban vannak.
 
+Az oldal bemutatja az automatizálható marketingfolyamatokat, a kalkulátor használatát, az időmegtakarítás szempontjait és a gyakori kérdéseket. Mobilon is alkalmazkodó, aszimmetrikus elrendezést használ, finom görgetési animációkkal és csökkentett mozgás beállítással.
+
 ## Mit lehet beállítani?
 
 - Automatizálandó marketingfolyamat: érdeklődőszerzés, utánkövetés, kampányok, tartalomterjesztés, riportolás vagy ügyfélmegtartás
